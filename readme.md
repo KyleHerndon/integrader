@@ -1,6 +1,6 @@
 I expanded the functionality of the grading code by implementing additional interpretable functions. I also added comments to affected lines.
 
-I also made an edit to the colorful theme to make it appear even brighter while also proposing an existentialist question while referencing a classic game. When you haven't started an assignment, the progress bar shows the Half-Life 2 missing texture, thus questioning whether or not, for the students who haven't started the webassign, it really exist?
+I also made an edit to the colorful theme to make it appear even brighter while also proposing an existentialist question while referencing a classic game. When you haven't started an assignment, the progress bar shows the Half-Life 2 missing texture, thus questioning whether or not, for the students who haven't started the webassign, it really exists?
 
 ![Integrader](https://raw.githubusercontent.com/bluepichu/integrader/master/public/images/logo-light.png)
 
