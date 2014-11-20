@@ -43,9 +43,9 @@ var getAllIndexes = function(str){
 }
 
 operators = ["+", "-", "*", "/", " ", "^", "_"];
-functions = ["sin", "cos", "tan", "cot", "sec", "csc", "ln", "log"];
+functions = ["sin", "cos", "tan", "cot", "sec", "csc", "ln", "log", "acos", "asin","atan"];
 
-var parse = function(arr){ //Does the thing
+var parse = function(arr){ //Turns the input into to interprettable text for mathjs so that numerical/symbolic evaluations are easier
    if(typeof(arr[0])=='object') {
        arr[0]="("+parse(arr[0])+")";
    } else if(arr.length==1){
